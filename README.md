@@ -15,7 +15,7 @@ This project focuses on **Customer Segmentation** using **K-Means Clustering** t
 - **Features:** Age, Income, Loan Status, Credit Score, etc.  
 
 ## 🚀 Next Steps  
-✔ Upload K-Means Clustering Implementation ✅ *(Tomorrow)*  
+✔ Uploaded K-Means Clustering Implementation ✅ 
 ⬜ Implement DBSCAN Clustering  
 ⬜ Add PCA for better visualization  
 ⬜ Build an Interactive PowerBI Dashboard  
