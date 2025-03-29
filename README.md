@@ -8,7 +8,7 @@ This project focuses on **Customer Segmentation** using **K-Means Clustering** t
 - **DBSCAN Clustering** (Coming Soon 🚀)  
 - **Principal Component Analysis (PCA)** for Dimensionality Reduction  
 - **Visualization with Seaborn & Matplotlib**  
-- **PowerBI** for Interactive Insights (Planned)  
+- **Tableau** for Interactive Insights (Planned)  
 
 ## 📂 Dataset  
 - **Source:** [Bank Marketing Dataset (Kaggle)](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)  
