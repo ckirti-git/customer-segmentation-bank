@@ -12,7 +12,7 @@ We explore different clustering techniques and dimensionality reduction methods 
 ✔ **K-Means Clustering** – Implemented and visualized for pattern recognition  
 ✔ **DBSCAN Clustering** – Planned for exploring density-based clustering  
 ✔ **Dimensionality Reduction** – **PCA** to reduce feature complexity  
-✔ **Interactive Dashboards** – Planned **Tableau/Power BI** for deep insights  
+✔ **Interactive Dashboards** – Planned **Tableau** for deep insights  
 ✔ **Data Visualization** – Using **Matplotlib** & **Seaborn** for exploratory analysis  
 
 ---
@@ -43,3 +43,20 @@ We explore different clustering techniques and dimensionality reduction methods 
 ---
 
 ## 📁 Repository Structure  
+
+📂 Customer Segmentation  
+│── 📜 README.md                # Project Documentation  
+│── 📊 Customer_Segmentation.ipynb  # Jupyter Notebook Implementation  
+│── 🖼 elbow_method_graph.png    # Elbow Method for optimal K selection  
+│── 🖼 Cluster_visualization_age_balance(KMeans).png # Clustering Results  
+│── 💻 customer_segmentation.py  # Python Script for Clustering  
+
+
+---
+
+## 🎯 Future Enhancements  
+✨ Implement **Hierarchical Clustering** for better comparison  
+✨ Integrate **Tableau/Power BI Dashboards**  
+✨ Deploy a **Customer Segmentation Web App**  
+
+Stay tuned for more updates! 🚀📈  
