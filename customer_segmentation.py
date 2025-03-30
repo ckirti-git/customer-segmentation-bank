@@ -18,10 +18,12 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.cluster import KMeans
 
+
 """####Loading the dataset"""
 
 bank_data = pd.read_csv('/content/drive/MyDrive/Datasets /Bank Marketing Dataset/bank.csv')
 bank_data.head()
+
 
 """##Data Cleaning and Processing
 
@@ -32,6 +34,7 @@ Some columns dont add values to the clustering so we will remove them. Columns l
 
 bank_data.drop(columns = ['day','month'], inplace=True)
 bank_data.head()
+
 
 """###Convert Categorical Columns into Numbers
 
@@ -54,6 +57,7 @@ bank_data = pd.get_dummies(bank_data, columns=['job', 'marital', 'education', 'c
 
 bank_data.head()
 
+
 """### Feature Scaling (Standarization)
 
 Kmeans works best when all the features are on the same scale. This will ensure that no column domintes due to large values.
@@ -61,6 +65,7 @@ Kmeans works best when all the features are on the same scale. This will ensure 
 
 scaler = StandardScaler()
 bankdata_scaled = scaler.fit_transform(bank_data)
+
 
 """###Finding the best K value by using Elbow Method
 
