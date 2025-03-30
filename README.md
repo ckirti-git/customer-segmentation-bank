@@ -26,8 +26,14 @@ We explore different clustering techniques and dimensionality reduction methods 
 ---
 
 ## 📂 Dataset  
-- **Source:** [Bank Marketing Dataset (Kaggle)](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)  
-- **Features:** Age, Income, Loan Status, Credit Score, Balance, and more  
+- **Source:** [Bank Marketing Dataset (Kaggle)](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
+- **Features:** Age, Income, Loan Status, Credit Score, Balance, and more
+
+## Clustered Dataset with Pivot Table
+
+You can also see the clustered dataset with a pivot table by clicking on the link below:  
+
+[View Dataset](https://docs.google.com/spreadsheets/d/1Z0LudCOb6FSKdBv-UeVnsxKGgsLk-dIW/edit?usp=sharing&ouid=102919673180469139167&rtpof=true&sd=true)
 
 ---
 
