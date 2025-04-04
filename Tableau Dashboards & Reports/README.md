@@ -67,4 +67,4 @@ A visualization of deposit subscriptions from the bank’s marketing campaign.
 ---
 
 ### 📌 Dashboard Visualization:
-![Customer Segmentation Dashboard](https://public.tableau.com/views/BankCustomerSegmentationProject/BanksCustomerSegmentationDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+For interactive dashboard click on -> [Bank's Customer Segmentation Dashboard](https://public.tableau.com/views/BankCustomerSegmentationProject/BanksCustomerSegmentationDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
