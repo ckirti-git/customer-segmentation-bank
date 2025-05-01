@@ -1,4 +1,4 @@
-## 📊 Customer Segmentation Dashboard (Before Clustering)
+## 📊 Customer Segmentation Dashboard (Before and After Clustering)
 
 This dashboard provides a visual analysis of bank customers before applying clustering techniques. It helps in understanding customer demographics, job roles, loan status, and campaign effectiveness.
 
@@ -68,3 +68,5 @@ A visualization of deposit subscriptions from the bank’s marketing campaign.
 
 ### 📌 Dashboard Visualization:
 For interactive dashboard click on -> [Bank's Customer Segmentation Dashboard](https://public.tableau.com/views/BankCustomerSegmentationProject/BanksCustomerSegmentationDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+For interactive dashboard click on -> [Bank's Customer Segmentation Dashboard After Clustering](https://public.tableau.com/views/CustomerSegmentationFinancialBehaviorafterKmeansClusering/CustomerSegmentationFinancialBehavior?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
