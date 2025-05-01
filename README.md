@@ -61,11 +61,11 @@ You can also see the clustered dataset with a pivot table by clicking on the lin
 ✅ **Pre-Clustering Dashboard** *(Uploaded: `Customer_Segmentation_Dashboard.png`)*  
 ✅ **Cluster Visualization:** *Uploaded* `Cluster_visualization_age_balance(KMeans).png`  
 ✅ **Elbow Method Graph:** *Uploaded* `elbow_method_graph.png`  
+✅ Implemented **DBSCAN Clustering**  *Uploaded*  
+✅ Applied **PCA** for feature reduction  *Uploaded*   
+✅ **Built a post-clustering Power BI/Tableau Dashboard**  *Uploaded*   
 
-📌 **Next Steps:**  
-⬜ Implement **DBSCAN Clustering**  
-⬜ Apply **PCA** for feature reduction  
-⬜ **Build a post-clustering Power BI/Tableau Dashboard**  
+📌 **Next Steps:**   
 ⬜ Compare results from different clustering techniques  
 
 ---
